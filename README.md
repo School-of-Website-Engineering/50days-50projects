@@ -1,11 +1,57 @@
 # 50 天 50 个项目 - HTML/CSS and JavaScript
+![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B0%B1%E7%BB%AA-critical)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![](https://img.shields.io/crates/l/s)](https://img.shields.io/crates/l/s)
+## 内容列表
 
-这是课程中所有项目的主要存储库。
+- [50 天 50 个项目 - HTML/CSS and JavaScript](#50-天-50-个项目---htmlcss-and-javascript)
+  - [内容列表](#内容列表)
+  - [相关仓库](#相关仓库)
+  - [维护者](#维护者)
+  - [如何贡献](#如何贡献)
+    - [贡献者](#贡献者)
+    - [特别感谢：](#特别感谢)
+  - [使用许可](#使用许可)
 
--   [Course Link](https://www.udemy.com/course/50-projects-50-days)
--   [Course Info Website](https://50projects50days.com)
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+## 相关仓库
+
+- [[Web_DEV_ING](https://github.com/bradtraversy/50projects50days)](https://github.com/Galaxy-Wish-Star/Web_DEV_ING) — 💌 50 天 50 个项目源仓库
+
+## 维护者
+
+[@mason369](https://github.com/mason369)  
+[@LingASDJ](https://github.com/LingASDJ)
+
+## 如何贡献
+
+非常欢迎你的加入！[提一个 Issue](https://github.com/School-of-Automation-Engineering/Magic-Ling-Pixel-Dungeon-Web/issues) 或者提交一个 Pull Request。
+
+50 天 50 个项目 - HTML/CSS and JavaScript 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
+
+### 贡献者
+
+参与项目的人：
+
+<a href="https://github.com/liusxs"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/101164913?v=4" /></a>
+<a href="https://github.com/LingASDJ"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/70191651?v=4" /></a>
+<a href="https://github.com/mason369"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/93964390?s=96&v=4" /></a>
+
+---
+
+
+**当前进度**：
+
+- [ ] 人员招募
+- [ ] 方案设计
+- [ ] 编码
+- [ ] Debug 测试
+- [ ] 完成！
+
+这是仓库中所有项目的主要代码。
+
+
+|  #  | 项目                                                                                                                    | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
@@ -58,9 +104,20 @@
 | 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
 
-## License
 
-The MIT License
+### 特别感谢：
+
+[IntelliJ WebStorm](https://zh.wikipedia.org/zh-hans/IntelliJ_IDEA) 是一款在各方面最大限度地提高开发人员生产力的 IDE，适用于前端平台语言。
+
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png?_gl=1*10616q8*_ga*MTEwMzE4MDQwOS4xNjU0NzQ0NjIw*_ga_9J976DJZ68*MTY1NTA5NzcyOC4yLjEuMTY1NTA5ODE3Ni42MA..&_ga=2.237879491.294686240.1655097729-1103180409.1654744620" width="200px"/>
+
+[Visual Studio Code](https://code.visualstudio.com/)在 Windows、macOS 和 Linux 上运行的独立源代码编辑器。 JavaScript 和 Web 开发人员的最佳选择，具有几乎可支持任何编程语言的扩展。
+
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" width="200px"/>
+
+## 使用许可
+
+[MIT](LICENSE) © Richard Littauer
 
 Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
 

@@ -1,10 +1,10 @@
-# 50 天 50 个项目 - HTML/CSS and JavaScript
+# 50 天 50 个小项目 - HTML/CSS and JavaScript
 ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B0%B1%E7%BB%AA-critical)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![](https://img.shields.io/crates/l/s)](https://img.shields.io/crates/l/s)
 ## 内容列表
 
-- [50 天 50 个项目 - HTML/CSS and JavaScript](#50-天-50-个项目---htmlcss-and-javascript)
+- [50 天 50 个小项目 - HTML/CSS and JavaScript](#50-天-50-个小项目---htmlcss-and-javascript)
   - [内容列表](#内容列表)
   - [相关仓库](#相关仓库)
   - [维护者](#维护者)
@@ -16,7 +16,7 @@
 
 ## 相关仓库
 
-- [[Web_DEV_ING](https://github.com/bradtraversy/50projects50days)](https://github.com/Galaxy-Wish-Star/Web_DEV_ING) — 💌 50 天 50 个项目源仓库
+- [[Web_DEV_ING](https://github.com/bradtraversy/50projects50days)](https://github.com/Galaxy-Wish-Star/Web_DEV_ING) — 💌 50 天 50 小个项目源仓库
 
 ## 维护者
 
@@ -25,17 +25,17 @@
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/School-of-Automation-Engineering/Magic-Ling-Pixel-Dungeon-Web/issues) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/School-of-Automation-Engineering/Magic-Ling-Pixel-Dungeon-Web/issues) 或者提交一个 Pull Request，在项目文件夹放入自己的代码文件夹。
 
 50 天 50 个项目 - HTML/CSS and JavaScript 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
 
 ### 贡献者
 
-参与项目的人：
-
 <a href="https://github.com/liusxs"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/101164913?v=4" /></a>
 <a href="https://github.com/LingASDJ"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/70191651?v=4" /></a>
 <a href="https://github.com/mason369"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/93964390?s=96&v=4" /></a>
+
+感谢以上人员的参与！
 
 ---
 
@@ -47,6 +47,7 @@
 - [ ] 编码
 - [ ] Debug 测试
 - [ ] 完成！
+
 
 这是仓库中所有项目的主要代码。
 

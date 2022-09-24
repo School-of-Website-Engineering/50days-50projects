@@ -16,7 +16,7 @@
 
 ## 相关仓库
 
-- [[Web_DEV_ING](https://github.com/bradtraversy/50projects50days)](https://github.com/Galaxy-Wish-Star/Web_DEV_ING) — 💌 50 天 50 小个项目源仓库
+- [[Web_DEV_ING]](https://github.com/bradtraversy/50projects50days) — 💌 50 天 50 小个项目源仓库
 
 ## 维护者
 

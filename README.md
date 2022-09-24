@@ -1,6 +1,6 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# 50 天 50 个项目 - HTML/CSS and JavaScript
 
-This is the main repository for all of the projects in the course.
+这是课程中所有项目的主要存储库。
 
 -   [Course Link](https://www.udemy.com/course/50-projects-50-days)
 -   [Course Info Website](https://50projects50days.com)
@@ -58,29 +58,14 @@ This is the main repository for all of the projects in the course.
 | 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
 
-**NOTE ON PULL REQUESTS**: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
-
 ## License
 
 The MIT License
 
 Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+特此免费授予任何人获得本软件和相关文档文件（“软件”）的副本，以不受限制地处理本软件，包括但不限于使用、复制、修改、合并的权利、发布、分发、再许可和/或出售本软件的副本，并允许向其提供本软件的人这样做，但须符合以下条件：
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+上述版权声明和本许可声明应包含在本软件的所有副本或大部分内容中。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
+本软件按“原样”提供，不提供任何形式的明示或暗示保证，包括但不限于适销性、特定用途适用性和非侵权保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任承担任何责任，无论是在合同、侵权或其他方面，由本软件或本软件的使用或其他交易引起或与之相关。软件。

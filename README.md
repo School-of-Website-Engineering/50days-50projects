@@ -51,7 +51,6 @@
 
 这是仓库中所有项目的主要代码。
 
-
 |  #  | 项目                                                                                                                    | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/School-of-Web-Engineering/50days-50projects/tree/main/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
